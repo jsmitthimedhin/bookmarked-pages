@@ -1,0 +1,2 @@
+# bookmarked-pages
+Bookmarked Pages allows you to bookmark websites all while adding a font-awesome icon to the bookmarked website (if applicable). The app also saves your data onto local storage so when you return to it, you can revisit the websites you've saved.  I learned how to use RegEx using this application to validate the URL with specific keywords. I also messed around with different methods on closing/opening the modals, retrieving the JSON data from local storage, and attaching the input on the modals to the clickable bookmarked objects on the page.
